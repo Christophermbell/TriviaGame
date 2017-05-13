@@ -1,0 +1,25 @@
+body {
+
+	background-image: url("http://images.naldzgraphics.net/2012/04/10-slice-retro.jpg");
+	background-repeat: repeat;
+ 
+}
+
+.jumbotron {
+	
+	text-align: center;
+	margin-top: 90px;
+	margin-right: 80px;
+	margin-bottom: 80px;
+	margin-left: 80px; 
+	background-color: white;
+	padding: 100px;
+}
+
+h1 {
+	display: center;
+	clear: both;
+	margin-bottom: 20px;
+	padding: 10px;
+	text-align: center;
+}
